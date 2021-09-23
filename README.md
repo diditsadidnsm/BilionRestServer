@@ -1,6 +1,4 @@
-# BilionRestServer
-
-# REST API BilionRestServer
+# REST API Bilion Rest Server
 
 This is a bare-bones example of a Sinatra application providing a REST
 API to a BilionRestServer-backed model.
