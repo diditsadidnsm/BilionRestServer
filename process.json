@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"        : "Bilion REST Server",
+    "script"      : "index.js",
+    "watch"       : "index.js",
+    "max_memory_restart" : "1000M"
+  }]
+}
